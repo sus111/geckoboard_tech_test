@@ -2,7 +2,7 @@ require('dotenv').load();
 var request = require('request');
 var moment = require('moment');
 var url = 'https://blockchain.info/ticker';
-var sendBitCoin = require("./putData.js")
+var sendBitCoin = require("./putGeckoboard.js")
 
 module.exports = function uploadData(){
   request(url, function (error, response, body) {

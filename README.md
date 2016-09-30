@@ -11,4 +11,4 @@ npm init
 ```
 node index.js
 ```
-In order to build graphs with currency rates over time, I'd like to add a database to the project.
+In order to build line graphs with currency rates over time, I'd like to add a database to the project.
