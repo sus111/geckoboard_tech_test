@@ -12,3 +12,4 @@ npm init
 node index.js
 ```
 In order to build line graphs with currency rates over time, I'd like to add a database to the project.
+# geckoboard_tech_test
